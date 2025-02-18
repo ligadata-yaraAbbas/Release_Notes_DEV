@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ligadata-yaraAbbas/Release_Notes_DEV/compare/v1.1.0...v1.1.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* update hql file ([9340c01](https://github.com/ligadata-yaraAbbas/Release_Notes_DEV/commit/9340c01763066b302f75534e2333a271d56aa664))
+
 # [1.1.0](https://github.com/ligadata-yaraAbbas/Release_Notes_DEV/compare/v1.0.0...v1.1.0) (2025-02-18)
 
 
